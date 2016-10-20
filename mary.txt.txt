@@ -1,8 +1,8 @@
-this is a test document
-go ahead I dare you to delete this !!!!!
+This is a test document
+Go ahead I dare you to delete this !!!!!
 
 
-mary had a little lamb
-its fleece was white as snow
-and everywhere that mary went
-the lamb didn’t want to go
+Mary had a little lamb,
+Its fleece was white as snow,
+And everywhere that mary went,
+The lamb didn’t want to go.
